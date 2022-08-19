@@ -1,3 +1,4 @@
+#First Stage
 FROM ubuntu as builder
 RUN apt-get update -y
 RUN apt-get install sudo curl -y
