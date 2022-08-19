@@ -17,7 +17,7 @@
 
 This repository holds the code for a simple Angular Store App, made using this tutorial: https://angular.io/start.
 
-## Running Locally on your system
+## Running Locally 
 
 To run the app locally, you need the following installed:
 * node ~10.16.0 or above
